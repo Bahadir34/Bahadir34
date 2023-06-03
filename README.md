@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bahadır Ahmet Ulaş</h1>
 <h3 align="center">Jr. Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **HIBERNATE**
 
 - 💬 Ask me about **Core Java, Github, SQL, API, AWS, HTML, CSS, JavaScript, React/Redux**
 
